@@ -1,10 +1,12 @@
-# BasicProject
+# java loops
 
 # Saturday, March 26, 2016
 
-Creating a basic maven file structure
+working with loops
 *Java
 *maven
 *git
+
+[Jag Sihota](https://github.com/jsihota65/java-loops)
 
 
